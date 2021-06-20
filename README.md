@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avikchandra
 - 👀 I’m interested in python, cloud, devops
 - 🌱 I’m currently learning azure
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me avikchandra14@gmail.com
 
 <!---
